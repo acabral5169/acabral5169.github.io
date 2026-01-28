@@ -1,6 +1,7 @@
 ---
 title: Hello
 date: 2026-01-21 11:00:00
+categories: [research]
 ---
 
 # Welcome
